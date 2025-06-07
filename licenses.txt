@@ -1,6 +1,6 @@
 license_key|expire_date|note
 34cdb9f38edf0f1efee2e57a603b79898da463a01b40b1b03217773d7b8203e1|2099-06-07|Desktop Toản
-|2099-06-07|Desktop Ngọc
+ca46282084498ba5374fdc044778d82fc3e664c4787211d2ef1655073f92d5c1|2099-06-07|Desktop Ngọc
 |2099-06-07|HP Zbook G1
 |2099-06-07|Desktop Hùng
 |2099-06-07|HP 8770w
