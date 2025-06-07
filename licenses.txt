@@ -1,0 +1,2 @@
+license_key|expire_date|note
+abc|2025-06-07|toan
