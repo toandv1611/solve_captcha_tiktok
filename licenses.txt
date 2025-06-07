@@ -1,7 +1,7 @@
 license_key|expire_date|note
 34cdb9f38edf0f1efee2e57a603b79898da463a01b40b1b03217773d7b8203e1|2099-06-07|Desktop Toản - Vĩnh viễn
 ca46282084498ba5374fdc044778d82fc3e664c4787211d2ef1655073f92d5c1|2099-06-07|Desktop Ngọc - Vĩnh viễn
-|2099-06-07|HP Zbook G1 - Vĩnh viễn
+33e9623781e20b6021cb6370d143e0d3822eb8b20f6aa67037e4af285c6ae6ed|2099-06-07|HP Zbook G1 - Vĩnh viễn
 f96b79e109ab99a1131dcd2cddda5b93bcf0bc07725baf211d0c7cb6637ff3ca|2099-06-07|Desktop Hùng - Vĩnh viễn
 9d1224696ad5887efb976dc38e65abe80b5491d2f0f9cd2754f379368b881775|2099-06-07|HP 8770w - Vĩnh viễn
 |2099-06-07|Dell 7440 - Vĩnh viễn
