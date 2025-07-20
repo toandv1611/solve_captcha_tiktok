@@ -13,3 +13,4 @@ c07777d704ca07dd2ea0ccb8b31d618f5c99b9db71d44b231441f11088de1f65|2099-06-07|HP 8
 4f5c83d3014f3f7605507f6a8f887454cb6b05d17f653a097d76b475329506ab|2025-08-19|Huy Cá Mập - 1 Tháng - Lộc Phát - Khách 1002
 f22003c96dfe9103bd733cf4e131e553ffcc59bb4e7e95de5b249472f111eeb1|2025-08-19|Huy Cá Mập - 1 Tháng - Trường Vũ - Khách 1002 - Win 11 - Chưa thêm foder bảo vệ virut
 370896f5d4b9e013505f224c84b41fa6211c9e309084a8979965e8029d6e8620|2025-08-19|Huy Cá Mập - 1 Tháng - Đào Tỉnh - Khách 1003 - Win 10
+e5ac7668ba1c478ece8c9b1c6fed52ce0fe57845c7a623b9a4ee01494805ba81|2025-08-20|Huy Cá Mập - 1 Tháng - Tráng - Khách 1003 - Win 11
