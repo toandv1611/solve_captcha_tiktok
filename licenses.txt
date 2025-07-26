@@ -1,29 +1,26 @@
-license_key|expire_date|note Tên khách - Hạn sử dụng - SĐT khách hàng
-34cdb9f38edf0f1efee2e57a603b79898da463a01b40b1b03217773d7b8203e1|9999-09-09|Desktop Toản - Vĩnh viễn
-b2ba1e7027b19b4bdaeaa910e7a85863d5544205995fddadf42844589d4b7974|9999-09-09|Laptop Tứ - Vĩnh viễn
-568f1e76a1c5b003ca210436196a2c2dd83d021ce9f981c3301f7b0826147ac7|9999-09-09|Desktop Ngọc - Vĩnh viễn
-fce49739794e97324905448768c48c60368d08a8896cc264966db4366e1541f9|9999-09-09|HP Zbook G1 - Vĩnh viễn
-7b059a8772cedc9018563501bf83a51c5d2282ec8bd66164c51ec0d85b4c2a43|9999-09-09|Desktop Hùng - Vĩnh viễn
-c07777d704ca07dd2ea0ccb8b31d618f5c99b9db71d44b231441f11088de1f65|9999-09-09|HP 8770w - Vĩnh viễn
-73e2b4ffeae624aa51e962c25b0ee5733ea760f2c973fd9443304338df2be5da|9999-09-09|Dell 7440 - Vĩnh viễn
-41952e3bcf4cfd5ee25b87478b514148ba933b51fff5d2f44433eff47cbc210d|9999-09-09|Key anh Dương - Vĩnh viễn
-12053b9d3205e184e2e547a5a8eed2d879837e8c20f0bc180f0362c823944ce9|9999-09-09|May 1 - Vĩnh viễn
-ced6a1be16cce5e6c4179cf955b5ed5e037dcef5cc8bc800b4a0526897692e70|2025-07-25|Đinh Văn Toản - Khách 1001 - Case - Dùng thử - Bin Hí
-0466f7a6ba14a21eb191320c9cb893382680b6995cd6f1104b13b86573b0d0e1|2025-08-19|Đinh Văn Toản - Khách 1001 - 1 Tháng - Win 11 - Laptop
-99ba8f8578a0f8d38570a1db6f9ae767a0e0710814cadf4b51181a888add582b|2025-07-28|May 1 - Máy chạy Huy Cá Mập Lạp Xưởng
-1adefb0bd99d4a6fe536b5e2afa371798093dde0b9ba55541cfb15051a983bf2|2025-07-28|May 2 - Máy chạy Huy Cá Mập thai9546 - Máy test - Võ Hồng Sơn Bán Gấu bông trên máy này
-4f5c83d3014f3f7605507f6a8f887454cb6b05d17f653a097d76b475329506ab|2025-08-19|Huy Cá Mập - 1 Tháng - Lộc Phát - Khách 1002
-ecf0b7be994c77c16f26f55990c2f1b0de5cabc76534ea244316fd4215794d7b|2025-07-30|Huy Cá Mập - Test thử - Lộc Phát - Khách
-f22003c96dfe9103bd733cf4e131e553ffcc59bb4e7e95de5b249472f111eeb1|2025-08-19|Huy Cá Mập - 1 Tháng - Trường Vũ - Khách 1002 - Win 11 - Chưa thêm foder bảo vệ virut
-370896f5d4b9e013505f224c84b41fa6211c9e309084a8979965e8029d6e8620|2025-08-19|Huy Cá Mập - 1 Tháng - Đào Tỉnh - Khách 1003 - Win 10
-Ae5ac7668ba1c478ece8c9b1c6fed52ce0fe57845c7a623b9a4ee01494805ba81|2025-08-20|Huy Cá Mập - 1 Tháng - Đồng Thế Tráng - Khách 1004 - Win 11 - Đã xóa phần mềm diệt virut
-A150bd210b7271d2b7831574ae1805989e0c9036987c916d70763239cefca3f30|2025-07-20|Đinh Văn Toản - Test - 4 Máy
-7432dbd3167936ec7d7502c8ddf493a7f7f1ba1231023a743dd3346c6e99875c|2025-07-28| Đinh Văn Toản - Gorup Zalo Gali Auto Captcha 1 - Dùng thử mấy ngày
-7fd0413ba54ff866fbb203e7e241f0e96e51dd53a1ec070591135b969df680ac|2025-07-28| Đinh Văn Toản - Gorup Zalo Gali Auto Captcha 2 - Dùng thử mấy ngày
-371e7b636ee600d2b9482e8655d001d09eeb26914718b1c83b8f26e2676fd7f5|2025-07-28| Đinh Văn Toản - Gorup Zalo Gali Auto Captcha 3 - Dùng thử mấy ngày
-734e4c7e99d24268dbac7f2e85b333291ac323cefc8173d1a42b1305d42570ad|2025-07-28| Đinh Văn Toản - Gorup Zalo Gali Auto Captcha 4 - Dùng thử mấy ngày
-1915349ec75b7d26a3f669a7df6c00bdec7d8d18333f40e3bec25e76f24ec7b4|2025-07-28| Đinh Văn Toản - Phan Công Máy 1 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-fe7a20d7352227b4d711b437ce345c3850ae351d6642eaea6b7b63a30c9a7344|2025-07-28| Đinh Văn Toản - Phan Công Máy 2 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-cb2f5ca202f8194eb1b9ee9f0de831e192e018e88632140fdb0e906874e19c0e|2025-07-28| Đinh Văn Toản - Phan Công Máy 3 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-Test|2025-07-28| Đinh Văn Toản - Phan Công Máy 4 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-Test|2025-07-28| Đinh Văn Toản - Phan Công Máy 5 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
+34cdb9f38edf0f1efee2e57a603b79898da463a01b40b1b03217773d7b8203e1|9999-09-09|KH1000-1 - Zalo Đinh Văn Toản - Desktop Toản -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 102 164 619
+b2ba1e7027b19b4bdaeaa910e7a85863d5544205995fddadf42844589d4b7974|9999-09-09|KH1000-2 - Zalo Đinh Văn Toản - Laptop Tứ -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 
+568f1e76a1c5b003ca210436196a2c2dd83d021ce9f981c3301f7b0826147ac7|9999-09-09|KH1000-3 - Zalo Đinh Văn Toản - Desktop Ngọc -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 85263093
+fce49739794e97324905448768c48c60368d08a8896cc264966db4366e1541f9|9999-09-09|KH1000-4 - Zalo Đinh Văn Toản - HP Zbook G1 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 53 108 179
+7b059a8772cedc9018563501bf83a51c5d2282ec8bd66164c51ec0d85b4c2a43|9999-09-09|KH1000-5 - Zalo Đinh Văn Toản - Desktop Hùng -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 78 527 090
+c07777d704ca07dd2ea0ccb8b31d618f5c99b9db71d44b231441f11088de1f65|9999-09-09|KH1000-6 - Zalo Đinh Văn Toản - HP 8770w -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 69596405
+73e2b4ffeae624aa51e962c25b0ee5733ea760f2c973fd9443304338df2be5da|9999-09-09|KH1000-7 - Zalo Đinh Văn Toản - Dell 7440 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 102696077
+41952e3bcf4cfd5ee25b87478b514148ba933b51fff5d2f44433eff47cbc210d|9999-09-09|KH1000-8 - Zalo Đinh Văn Toản - Anh Dương -  -  - Win 10 Pro - Case Xeon - Vĩnh viễn - ID Ultraview máy 1: 
+12053b9d3205e184e2e547a5a8eed2d879837e8c20f0bc180f0362c823944ce9|9999-09-09|KH1000-9 - Zalo Đinh Văn Toản - Máy Toản 1 -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 114701042
+0466f7a6ba14a21eb191320c9cb893382680b6995cd6f1104b13b86573b0d0e1|2025-08-19|KH1001-1 - Fb Đỗ Xuân Dương - Bin Hí - Zalo Đinh Văn Toản - Bin Hí 0903346725 Bin Hí - Bán kem trộn - Win 11 - Laptop U - 0587777946 - https://www.fa
+ced6a1be16cce5e6c4179cf955b5ed5e037dcef5cc8bc800b4a0526897692e70|2025-07-25|KH1001-2 - Fb Đỗ Xuân Dương - Bin Hí - Zalo Đinh Văn Toản - Bin Hí 0903346725 Bin Hí - Bán kem trộn - Win 10 - Case Xeon - Bin Hí Máy 2 ClientCaptcha
+99ba8f8578a0f8d38570a1db6f9ae767a0e0710814cadf4b51181a888add582b|2025-07-24|KH1002-1 - Group Huy Cá Mập - Huy Cá Mập -  -  - Win - Case - Huy Cá Mập Máy 1 ClientCaptchaV20250722V1D1C-0.28 - Lạp Xưởng
+1adefb0bd99d4a6fe536b5e2afa371798093dde0b9ba55541cfb15051a983bf2|2025-07-24|KH1002-2 - Group Huy Cá Mập - Huy Cá Mập -  -  - Win - Case - Huy Cá Mập Máy 2 ClientCaptchaV20250722V1D1C-0.32 - Huy Cá Mập Máy 2 ClientCaptchaV2025
+7432dbd3167936ec7d7502c8ddf493a7f7f1ba1231023a743dd3346c6e99875c|2025-07-28|KH1003-1 - Zalo Tool Captcha - Nguyễn Hữu Kiên 0336708406 Gali Auto Captcha - Zalo Tool Captcha - Gali Auto Captcha - Win 11 Pro - Core i 5 - 12400F 
+7fd0413ba54ff866fbb203e7e241f0e96e51dd53a1ec070591135b969df680ac|2025-07-28|KH1003-2 - Zalo Tool Captcha - Nguyễn Hữu Kiên 0336708406 Gali Auto Captcha - Zalo Tool Captcha - Gali Auto Captcha - Win 10 - Core I5 13400F - RX 58
+371e7b636ee600d2b9482e8655d001d09eeb26914718b1c83b8f26e2676fd7f5|2025-07-28|KH1003-3 - Zalo Tool Captcha - Nguyễn Hữu Kiên 0336708406 Gali Auto Captcha - Zalo Tool Captcha - Gali Auto Captcha - Win 10 - 12400 - RTX 3050 - Obs
+734e4c7e99d24268dbac7f2e85b333291ac323cefc8173d1a42b1305d42570ad|2025-07-28|KH1003-4 - Zalo Tool Captcha - Nguyễn Hữu Kiên 0336708406 Gali Auto Captcha - Zalo Tool Captcha - Gali Auto Captcha - Win 10 - 14600F - Rx 580 2048SP
+4f5c83d3014f3f7605507f6a8f887454cb6b05d17f653a097d76b475329506ab|2025-08-19|KH1004-1 - Group Huy Cá Mập - Lộc Phát -  -  - Win - ID Ultraview máy 1: - Lộc Phát ClientCaptchaV20250721V1D1-0.0942 - Lộc Phát ClientCaptchaV202507
+ecf0b7be994c77c16f26f55990c2f1b0de5cabc76534ea244316fd4215794d7b|2025-07-28|KH1004-2 - Group Huy Cá Mập - Lộc Phát -  -  Máy 2 - Win 10 - Tiếng Việt - i5 4570 GTX 650 - ID Ultraview máy 2: 115848488 - Lộc Phát ClientCaptchaV2
+f22003c96dfe9103bd733cf4e131e553ffcc59bb4e7e95de5b249472f111eeb1|2025-08-19|KH1005-1 - Group Huy Cá Mập - Trường Vũ - Zalo Tool Captcha - Trường Vũ - Chuối sấy - Win 11 -  - Trường Vũ ClientCaptchaV20250722V1D1C-0.225 - Trườn
+370896f5d4b9e013505f224c84b41fa6211c9e309084a8979965e8029d6e8620|2025-08-19|KH1006-1 - Group Huy Cá Mập - Đào Tỉnh -  -  - Win - Đào Tỉnh ClientCaptchaV20250722V1D1C-0.25 - Đào Tỉnh ClientCaptchaV20250723V1D1-0.225 Bản thiếu 
+e5ac7668ba1c478ece8c9b1c6fed52ce0fe57845c7a623b9a4ee01494805ba81|2025-07-20|KH1007-1 - Group Huy Cá Mập - Đồng Thế Tráng -  -  - Win 11 -  - Đã xóa phần mềm diệt virut
+150bd210b7271d2b7831574ae1805989e0c9036987c916d70763239cefca3f30|2025-07-20|KH1008-1 - Fb Đỗ Xuân Dương - Liên Minh - 0368444000 -  -  - https://www.facebook.com/lien.minh.828703 - Reup quay màn hình trực tiếp của bên Top Gia
+1915349ec75b7d26a3f669a7df6c00bdec7d8d18333f40e3bec25e76f24ec7b4|2025-07-28|KH1009-1 - Fb Đỗ Xuân Dương - Phan Công - Fb Đỗ Xuân Dương -  - Win - Case Xeon - ID Ultraview máy 1: 114 914 116 - Bên này chuyên làm dịch vụ cho cá
+fe7a20d7352227b4d711b437ce345c3850ae351d6642eaea6b7b63a30c9a7344|2025-07-28|KH1009-2 - Fb Đỗ Xuân Dương - Phan Công - Fb Đỗ Xuân Dương -  - Win - Case Xeon - ID Ultraview máy 2: 115724534 - Phan Công Máy 2 ClientCaptchaV20250
+cb2f5ca202f8194eb1b9ee9f0de831e192e018e88632140fdb0e906874e19c0e|2025-07-28|KH1009-3 - Fb Đỗ Xuân Dương - Phan Công - Fb Đỗ Xuân Dương -  - Win - Case Xeon - ID Ultraview máy 3: 34796228 - Phan Công Máy 3 ClientCaptchaV202507
