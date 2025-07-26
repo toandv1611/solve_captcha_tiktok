@@ -25,5 +25,5 @@ A150bd210b7271d2b7831574ae1805989e0c9036987c916d70763239cefca3f30|2025-07-20|Đi
 1915349ec75b7d26a3f669a7df6c00bdec7d8d18333f40e3bec25e76f24ec7b4|2025-07-24| Đinh Văn Toản - Phan Công Máy 1 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
 fe7a20d7352227b4d711b437ce345c3850ae351d6642eaea6b7b63a30c9a7344|2025-07-24| Đinh Văn Toản - Phan Công Máy 2 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
 cb2f5ca202f8194eb1b9ee9f0de831e192e018e88632140fdb0e906874e19c0e|2025-07-24| Đinh Văn Toản - Phan Công Máy 3 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-Chờ|2025-07-24| Đinh Văn Toản - Phan Công Máy 4 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
-Chờ|2025-07-24| Đinh Văn Toản - Phan Công Máy 5 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
+Test|2025-07-24| Đinh Văn Toản - Phan Công Máy 4 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
+Test|2025-07-24| Đinh Văn Toản - Phan Công Máy 5 - Fb Đỗ Xuân Dương - Dùng thử mấy ngày
