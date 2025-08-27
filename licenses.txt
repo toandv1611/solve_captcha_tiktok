@@ -2,7 +2,7 @@ license_key|expire_date|note Tên khách - Hạn sử dụng - SĐT khách hàng
 34cdb9f38edf0f1efee2e57a603b79898da463a01b40b1b03217773d7b8203e1|9999-09-09|KH1000-1 - Zalo Đinh Văn Toản - Desktop Toản -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 102 164 619
 30b029f65dffae1b716ae5fa2709777f3edb911ba17acea2d8deabd1107f25fa|9999-09-09|KH1000-2 - Zalo Đinh Văn Toản - Laptop Tứ -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 
 568f1e76a1c5b003ca210436196a2c2dd83d021ce9f981c3301f7b0826147ac7|9999-09-09|KH1000-3 - Zalo Đinh Văn Toản - Desktop Ngọc -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 85263093
-fce49739794e97324905448768c48c60368d08a8896cc264966db4366e1541f9|9999-09-09|KH1000-4 - Zalo Đinh Văn Toản - HP Zbook G1 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 53 108 179
+ddcc87b141e42de40e538b7196ee412f6426c14b5b39af78024992cf6daede68|9999-09-09|KH1000-4 - Zalo Đinh Văn Toản - HP Zbook G1 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 53 108 179
 7b059a8772cedc9018563501bf83a51c5d2282ec8bd66164c51ec0d85b4c2a43|9999-09-09|KH1000-5 - Zalo Đinh Văn Toản - Desktop Hùng -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 78 527 090
 a1650f8901236650cd2650448a2dd21d4feaf57e401eed4631d22e9c7d9495dd|9999-09-09|KH1000-6 - Zalo Đinh Văn Toản - HP 8770w -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 69596405
 73e2b4ffeae624aa51e962c25b0ee5733ea760f2c973fd9443304338df2be5da|9999-09-09|KH1000-7 - Zalo Đinh Văn Toản - Dell 7440 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 102696077
