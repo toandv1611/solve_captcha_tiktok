@@ -1,39 +1,4 @@
 license_key|expire_date|note Tên khách - Hạn sử dụng - SĐT khách hàng
-60b46c8311c45350d62826aad44f33050138c6a343158b54c24b292af9764caf|9999-09-09|KH1000-1 - Zalo Đinh Văn Toản - DESKTOP-TOAN -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview: 102 164 619
-30b029f65dffae1b716ae5fa2709777f3edb911ba17acea2d8deabd1107f25fa|9999-09-09|KH1000-2 - Zalo Đinh Văn Toản - Laptop Tứ -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview: 102 123 234
-8cc6773a748ed276555f8656fd1172e637678d2f4599664a6bc752f4ab6f42f6|9999-09-09|KH1000-3 - Zalo Đinh Văn Toản - DESKTOP-2 -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview: 85263093
-2dea83561726a5d496b086e033bd0635bea440549fd4944163f6818f582defcc|9999-09-09|KH1000-4 - Zalo Đinh Văn Toản - LAPTOP-HP-ZBOOK-15G1 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview: 53108179
-98c90e079a06ba01d7b41fb3bcaf820ef0de705afaaf00ae12d2ad42f451e6c4|9999-09-09|KH1000-5 - Zalo Đinh Văn Toản - DESKTOP-3 -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview: 78 527 090
-a4bab9aa3d9165e1c01c1ffc72ae1483f02fb318e293022a6b5ba2627af27b36|9999-09-09|KH1000-6 - Zalo Đinh Văn Toản - HP 8770w -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 69596405
-812840d04f3ac3bb98b58e2a30a852f8b18ff326e8575a585fad791d971fb143|9999-09-09|KH1000-7 - Zalo Đinh Văn Toản - Dell 7440 -  -  - Win 10 Pro - Laptop Core I - Vĩnh viễn - ID Ultraview máy 1: 102696077
-41952e3bcf4cfd5ee25b87478b514148ba933b51fff5d2f44433eff47cbc210d|9999-09-09|KH1000-8 - Zalo Đinh Văn Toản - Anh Dương -  -  - Win 10 Pro - Case Xeon - Vĩnh viễn - ID Ultraview máy 1: 
-254a7c73f6ac044187559c10c00ada4ab77ad72c4191d99d603bc5376827bfaf|9999-09-09|KH1000-9 - Zalo Đinh Văn Toản - DESKTOP-1 -  -  - Win 10 Pro - Case Core I - Vĩnh viễn - ID Ultraview máy 1: 114701042
-734e4c7e99d24268dbac7f2e85b333291ac323cefc8173d1a42b1305d42570ad|2025-10-03|KH1003-4 - Zalo Tool Captcha - Nguyễn Hữu Kiên 0336708406 Gali Auto Captcha - Group Zalo Tool Captcha - Gali Auto Captcha - Win 10 - 14600F - Rx 580 
-7f7e65a33df6625bc49e5ad98eaa12ffa8e90ea6c56962d9a897acfa61bb1f05|2025-10-13|KH1006-2 - Fb Đỗ Xuân Dương - Đào Tỉnh -  -  - Win - ID Ultraview máy 1: 113 919 468 - ClientCaptchaV20250801V1D1C-0.218 - ClientGhimSanPhamV20250801
-21df10d7f3c0b8c1fe81af6779379e8bc3070f149818a225e97ea3e1da2cc73a|2026-01-26|KH1011-1 - Zalo Tool Captcha - Trần Quang Sỹ 0922228663 - Fb Đỗ Xuân Dương - Shop Vải Sấy Khô Bắc Giang - Win 11 - ID Ultraview máy 1: 127157451 - Tr
-e43bc91f832917a573f1e647e02cb3c1c3132598f729f66bedbb081c7cedf7ab|2026-01-29|KH1011-2 - Zalo Tool Captcha - Trần Quang Sỹ 0922228663 - Fb Đỗ Xuân Dương - Shop Vải Sấy Khô Bắc Giang - Win 10 - ID Ultraview máy 2: 68065314 - 
-98a12826a99eec57ecc3b13b7331a85892dc0c63fdbf89040f953d1d951fc813|2026-06-12|KH1012-3 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 3: 119475432 - Anh Hậu Nhà Bè - Anh bán dép ý, anh liv
-b94826bffc955d796d2f6ba5d7d3e65c2e85bbce956d6306a749a661451289c3|2026-03-01|KH1012-1 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 1: 126872742 - Anh Hậu Nhà Bè - Anh bán dép ý, anh liv
-b22472e48f24e2e46922bd60206a7c83eee725164a4d4dcb98858d89481faa34|2026-05-19|KH1012-4 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 4: 118563898 - User: haunhabe - Anh Hậu Nhà Bè - Anh b
-94f4193cb36a18723b4eae05c8c4b255a457862a9768bc5c8d4440bcae2c873d|2025-11-19|KH1012-5 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 3: 22271047 - User: 1994mayphaigiau - Anh Hậu Nhà Bè -
-9fd0968f0573d20e9411f139b93adec183844e743691fcb9d7b165960f4cd70f|2025-12-15|KH1012-6 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 6: 125459058 - User: luffymurom021 - Anh Hậu Nhà Bè - 
-66f9bd3b527502232bba66f708dd9cb8621ab2bf7cbc575b648eb48c542971ed|2026-04-19|KH1012-7 - Zalo Tool Captcha - Hậu Nhà Bè Bán Dép 0777797493 -  -  - Win 11 - ID Ultraview máy 7: 126935968 - User:
-4851ebaad649fe5df5b3f7ae3222e04eeb75f1b45fa8a92acf3395e791a18a2f|2025-10-29|KH1017-3 - Zalo Tool Captcha - Zkai Nguyễn - Live thật -  -  - Win 10 - Zkai Nguyễn - Live thật - Khách làm thực tế tự live, muốn học reup - ID Ultra
-c3ded78fa59f0fbc338cce5a6b9ffc5e90cd7ab3355960eee8611c116e7f3266|2026-01-15|KH1017-4 - Zalo Tool Captcha - Zkai Nguyễn - Live thật -  -  - Win 10 - Zkai Nguyễn - Live thật - Khách làm thực tế tự live, muốn học reup - ID Ultra
-e0bdc575a1dd99515bd89c69a1c9b2eb01a7a588bc417a9edab2de14b6c42ac9|2025-10-02|KH1018-1 - Fb Đỗ Xuân Dương - Tin Tin -  -  - Win 10 - ID Ultraview máy 1: 66598312 - User Tiktok:  - https://www.facebook.com/nghiem.tin - Dùng gói 
-7a0daeb05a41e813d85fbf85f49ea55337b98a34281a605f01e8d4035b14e4e4|2025-10-15|KH1021-1 - Zalo Tool Captcha - Nhipham 0905423171 - Fanpage Tool Captcha - https://www.facebook.com/nhi.pham.9066389 - Win 11 - ID Ultraview máy 1: 1
-56099cd080731cfeb0b879083a52ba3ec43369800cf18e9d01bbe26585954cac|2025-11-17|KH1022-1 - Zalo Tool Captcha - Thu Hậu Thu Hậu RUL26 -  -  - Win 11 - ID Ultraview máy 1: 116883426 - User Tiktok: http://tiktok.com/@rabbitkid.vn
-618eb4c699c386910f0e052a5f68ce41bbfca22565cdde15eb623dee14a793ff|2025-10-21|KH1022-2 - Zalo Tool Captcha - Thu Hậu Thu Hậu RUL26 -  -  - Win 11 - ID Ultraview máy 2: 121011465 - User Tiktok: - Chồng bán máy tính lắp cấu hình 
-2cc853e3bd0fd890dee51e903e1333535763acbfd45440515239d24c2f5c2c86|2025-10-18|KH1023-1 - Zalo Tool Captcha - Lạc Trôi RUL26 -  -  - Win 11 - ID Ultraview máy 1: 110983231 - User Tiktok: 
-063b5d8b8ada524b9586e678276b0d71c16af9352bbc7dcbc7bbce6691270d29|2025-10-18|KH1023-2 - Zalo Tool Captcha - Lạc Trôi RUL26 -  -  - Win 10 - ID Ultraview máy 1: 111100666 - User Tiktok: 
-05c6e23f1be4563dac99f9d31dd1cb1a21824803c1b7082b34e9a4ee962b44ae|2025-10-21|KH1024-1 - Zalo Tool Captcha - Mymy -  -  - Win 10 - ID Ultraview máy 1: 115302361 - User Tiktok: 
-d1e2c80eaa9d7c711f4c7d1803b85b247430991534b406b7af8ed55cc690054d|2025-10-25|KH1025-1 - Zalo Tool Captcha - Tiến Phạm 0932301117 -  -  - Win 10 - ID Ultraview máy 1: 88426508 - User Tiktok: 
-0e7243a8524125027ff92565346fef2c4d2c87bbf52f20a3ee6c76ab19be2d57|2025-11-22|KH1026-1 - Fb Đỗ Xuân Dương - Thomas Thương  (Thomas Skincare) -  -  - Win 10 - ID Ultraview máy 1: 88426508 - User Tiktok: http://tiktok.com/@mrthom
-13ff653a49f4cfbeeb3724c0e6e942eb20abe33b682d2557ca9e382d328b9e14|2025-10-29|KH1027-1 - Fb Đỗ Xuân Dương - Nguyễn Thị Hồng Thơm -  -  - Win 10 - ID Ultraview máy 1: 41890559 - User Tiktok: hoang.thom.store
-c7bbc8c79b121543dc5dd9c3f94398160827cd4ce4b9cf7988a60a165947bc09|2025-11-01|KH1027-2 - Fb Đỗ Xuân Dương - Nguyễn Thị Hồng Thơm -  -  - Win 11 - ID Ultraview máy 1: 83054397 - User Tiktok: hoangthomstore
-23415074e0e37532d4248d18974bc2630ad832696ccace23b045fdc549a00b91|2025-11-18|KH1029-1 - Zalo Tool Captcha - Thu Hồng 0565433088 -  -  - Win 10 - ID Ultraview máy 1: 123546100 - User Tiktok: 
-bac861385462576bd539f3b972116a9433596d4a96622f48758078abafd06ae7|2025-11-29|KH1032-1 - Fb Đỗ Xuân Dương - Trần Hảo  -  -  - Win 11 - ID Ultraview máy 1: 98987003 - User Tiktok: - https://www.facebook.com/TranHao2k
-8fd20577dfc43c93d06401e37a7b01c057d4320d62e00a2c376fb703c9d29ff4|2026-03-07|KH1033-1 - Fb Đỗ Xuân Dương - Dang Trong Le -  -  - Win 11 - ID Ultraview máy 1: 98987003 - User Tiktok: - Fb: https://www.facebook.com/dangtrongle
 adf276a2865b13c2f6a69c28567cb5f613077fcf9f8f5c37610d26758668d7f1|2026-02-26|KH1035-1 - Zalo Tool Captcha - Thu Nguyen -  -  -  - ID Ultraview máy 1: 129 222 906 - User Tiktok:
 03f25dff84438064a08c75412193859d518851c92f787a612147061a725aa9d9|2026-03-01|KH1037-1 - Zalo Tool Captcha - Hải Nguyễn -  -  -  - ID Ultraview máy 1:  - User Tiktok:
 038b35476ed28439234c39bed264dbce5df8d38821c99a7575142433ebf75939|2026-03-29|KH1037-2 - Zalo Tool Captcha - Hải Nguyễn -  -  -  - ID Ultraview máy 1:  - User Tiktok:
@@ -42,3 +7,4 @@ c7b846bf0a1c821c585b277aea3f025abd73dd500e4796a9b5cf53d3fb19a1fd|2026-04-28|KH10
 3b32a3a46171107a0574c6a3e70978729b5ddaa7bdbad9d8c0519cb9f5aae8f5|2026-05-25|KH1041-1 - Zalo Tool Captcha - Ebay -  -  -  - ID Ultraview máy 1:  - User Tiktok: 
 0faa66fe23454df3018678ac9d4476b5f551d45f516c0c3973146e768d217e02|2026-07-16|KH1042-1 - Zalo Tool Captcha - Mạnh Trần -  -  -  - ID Ultraview máy 1:  - User Tiktok: 
 17452c3250b1af5c6043e07e8f9bd08c2b7ed24ad83b04d8c4ece73b2b1f4f4d|2026-09-15|KH1043-1 - Zalo Tool Captcha - Đăng Quảng 0866156699 -  -  -  - ID Ultraview máy 1:  - User Tiktok:
+21df10d7f3c0b8c1fe81af6779379e8bc3070f149818a225e97ea3e1da2cc73a|2026-09-15|KH1043-1 - Zalo Tool Captcha - Đăng Quảng 0866156699 -  -  -  - ID Ultraview máy 1:  - User Tiktok:
